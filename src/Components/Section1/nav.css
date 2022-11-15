@@ -1,0 +1,160 @@
+.main_div1 {
+  border: 3px solid rgb(241, 8, 0);
+  width: auto;
+  height: auto;
+  display: flex;
+  box-sizing: border-box;
+}
+.navbar_main_div {
+  width: auto;
+  height: 1080px;
+  border: 3px solid greenyellow;
+}
+
+.navbar_div {
+  width: 1424px;
+  height: 151px;
+  background: #201c2b;
+}
+.navbar_div {
+    position: absolute;
+    width: 1424px;
+    height: 151px;
+    left: 0px;
+    top: 0px;
+    background: #201c2b;
+    /* border: 1px solid red; */
+  }
+  .r_logo {
+    position: absolute;
+    width: 62.55px;
+    height: 71.4px;
+    left: 138px;
+    top: 40px;
+    background: url("../../../public/Images/R Logo white.svg");
+  }
+  .logo_word {
+    position: absolute;
+    width: 61.72px;
+    height: 8px;
+    left: 143.1px;
+    top: 111.6px;
+    /* background: #FFFFFF; */
+    background: url("../../../public/Images/TRUSTINVESTPROFIT.svg");
+  }
+  
+  .ul_div {
+    display: flex;
+  }
+  .li_one {
+    position: absolute;
+    list-style: none;
+    width: 54px;
+    height: 22px;
+    left: 405px;
+    top: 64px;
+    font-family: "Gilmer Medium";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+    text-align: center;
+    color: #cfaf74;
+  }
+  .li_two {
+    list-style: none;
+    position: absolute;
+    width: 87px;
+    height: 22px;
+    left: 519px;
+    top: 64px;
+    font-family: "Gilmer Regular";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+    text-align: center;
+    color: #ffffff;
+  }
+  .li_three {
+    list-style: none;
+    position: absolute;
+    width: 76px;
+    height: 22px;
+    left: 666px;
+    top: 64px;
+    font-family: "Gilmer Regular";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+    text-align: center;
+    color: #ffffff;
+  }
+  .li_four {
+    position: absolute;
+    list-style: none;
+    width: 62px;
+    height: 22px;
+    left: 802px;
+    top: 64px;
+    font-family: "Gilmer Regular";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+    text-align: center;
+    color: #ffffff;
+  }
+  .li_five {
+    list-style: none;
+    position: absolute;
+    width: 125px;
+    height: 22px;
+    left: 924px;
+    top: 64px;
+    font-family: "Gilmer Regular";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+    text-align: center;
+    color: #ffffff;
+  }
+  .li_six {
+    list-style: none;
+    position: absolute;
+    width: 123px;
+    height: 22px;
+    left: 1109px;
+    top: 64px;
+    font-family: "Gilmer Regular";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+    text-align: center;
+    color: #ffffff;
+  }
+  .li_seven {
+    list-style: none;
+    position: absolute;
+    width: 77px;
+    height: 22px;
+    left: 1292px;
+    top: 64px;
+    font-family: "Gilmer Regular";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+    text-align: center;
+    color: #ffffff;
+  }

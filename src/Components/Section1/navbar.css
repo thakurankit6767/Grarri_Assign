@@ -1,0 +1,242 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.main_div {
+  border: 3px solid rgb(255, 240, 108);
+  width: 1920px;
+  height: 1080px;
+  left: 0px;
+  top: 0px;
+  display: flex;
+  box-sizing: border-box;
+}
+.navbar_main_div {
+  width: 1424px;
+  height: 1080px;
+  /* border: 1px solid skyblue; */
+}
+
+/* navbarstart */
+.navbar_div {
+  position: absolute;
+  width: 1424px;
+  height: 151px;
+  left: 0px;
+  top: 0px;
+  background: #201c2b;
+  /* border: 1px solid red; */
+}
+.r_logo {
+  position: absolute;
+  width: 62.55px;
+  height: 71.4px;
+  left: 138px;
+  top: 40px;
+  background: url("../../../public/Images/R Logo white.svg");
+}
+.logo_word {
+  position: absolute;
+  width: 61.72px;
+  height: 8px;
+  left: 143.1px;
+  top: 111.6px;
+  /* background: #FFFFFF; */
+  background: url("../../../public/Images/TRUSTINVESTPROFIT.svg");
+}
+
+/* .li_div {
+  
+} */
+.ul_div {
+  display: flex;
+}
+.li_one {
+  position: absolute;
+  list-style: none;
+  width: 54px;
+  height: 22px;
+  left: 405px;
+  top: 64px;
+  font-family: "Gilmer Medium";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 22px;
+  /* identical to box height */
+  text-align: center;
+  color: #cfaf74;
+}
+.li_two {
+  list-style: none;
+  position: absolute;
+  width: 87px;
+  height: 22px;
+  left: 519px;
+  top: 64px;
+  font-family: "Gilmer Regular";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  /* identical to box height */
+  text-align: center;
+  color: #ffffff;
+}
+.li_three {
+  list-style: none;
+  position: absolute;
+  width: 76px;
+  height: 22px;
+  left: 666px;
+  top: 64px;
+  font-family: "Gilmer Regular";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  /* identical to box height */
+  text-align: center;
+  color: #ffffff;
+}
+.li_four {
+  position: absolute;
+  list-style: none;
+  width: 62px;
+  height: 22px;
+  left: 802px;
+  top: 64px;
+  font-family: "Gilmer Regular";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  /* identical to box height */
+  text-align: center;
+  color: #ffffff;
+}
+.li_five {
+  list-style: none;
+  position: absolute;
+  width: 125px;
+  height: 22px;
+  left: 924px;
+  top: 64px;
+  font-family: "Gilmer Regular";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  /* identical to box height */
+  text-align: center;
+  color: #ffffff;
+}
+.li_six {
+  list-style: none;
+  position: absolute;
+  width: 123px;
+  height: 22px;
+  left: 1109px;
+  top: 64px;
+  font-family: "Gilmer Regular";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  /* identical to box height */
+  text-align: center;
+  color: #ffffff;
+}
+.li_seven {
+  list-style: none;
+  position: absolute;
+  width: 77px;
+  height: 22px;
+  left: 1292px;
+  top: 64px;
+  font-family: "Gilmer Regular";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  /* identical to box height */
+  text-align: center;
+  color: #ffffff;
+}
+/* navbarend */
+.image_main_div {
+  width: 1424px;
+  height: 779px;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+    url("../../../public/Images/Hero_image_page.svg");
+  /* border: 3px solid rgb(155, 165, 255); */
+}
+
+.img_div1 {
+  position: absolute;
+  width: 1424px;
+  height: 329px;
+  left: 0px;
+  top: 408px;
+  background: linear-gradient(
+    89.99deg,
+    #2f2941 0.01%,
+    rgba(0, 0, 0, 0.0056338) 78.22%,
+    rgba(47, 41, 65, 0) 78.23%
+  );
+  transform: matrix(1, 0, 0, -1, 0, 0);
+  /* border: 3px solid rgb(52, 255, 52); */
+}
+.img_div2 .p1 {
+  /* position: absolute;
+  width: 630px;
+  height: 154px; */
+  left: 100px;
+  top: 378px;
+  font-family: "Gilmer Bold";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 77px;
+  text-transform: capitalize;
+  color: #ffffff;
+}
+.img_div2 .p2 {
+  /* position: absolute;
+  width: 1169px;
+  height: 80px; */
+  left: 100px;
+  top: 548px;
+  font-family: "Gilmer Bold";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 33px;
+  line-height: 40px;
+  color: #ffffff;
+  text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.4);
+}
+.address_div {
+  border: 2px solid rgb(141, 54, 255);
+  position: absolute;
+  width: 1424px;
+  height: 150px;
+  left: 0px;
+  top: 1080px;
+
+  background: #272234;
+  transform: matrix(1, 0, 0, -1, 0, 0);
+}
+
+.enquire_div {
+  /* position: absolute; */
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+  background: #201c2b;
+  width: 496px;
+  height: 1080px;
+  border: 3px solid orange;
+}
