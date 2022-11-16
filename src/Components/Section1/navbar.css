@@ -33,9 +33,9 @@
   position: absolute;
   width: 62.55px;
   height: 71.4px;
-  left: 138px;
-  top: 40px;
-  background: url("../../../public/Images/R Logo white.svg");
+  margin-left: 138px;
+  margin-top: 40px;
+  /* background: url("../../../public/Images/RLogowhite.svg"); */
 }
 .logo_word {
   position: absolute;
@@ -44,7 +44,7 @@
   left: 143.1px;
   top: 111.6px;
   /* background: #FFFFFF; */
-  background: url("../../../public/Images/TRUSTINVESTPROFIT.svg");
+  /* background: url("../../../public/Images/TRUSTINVESTPROFIT.svg"); */
 }
 
 /* .li_div {
@@ -169,8 +169,8 @@
 .image_main_div {
   width: 1424px;
   height: 779px;
-  background: linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url("../../../public/Images/Hero_image_page.svg");
+  /* background: linear-gradient(0deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
+    url("../../../public/Images/Hero_image_page.svg"); */
   /* border: 3px solid rgb(155, 165, 255); */
 }
 
@@ -229,8 +229,8 @@
   transform: matrix(1, 0, 0, -1, 0, 0);
 }
 
-.enquire_div {
-  /* position: absolute; */
+/* .enquire_div {
+  position: absolute;
   left: 0%;
   right: 0%;
   top: 0%;
@@ -239,4 +239,6 @@
   width: 496px;
   height: 1080px;
   border: 3px solid orange;
-}
+} */
+
+
